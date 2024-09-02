@@ -1,4 +1,4 @@
-p# Template_One
+# Template_One
 ## Demo
 [Go To Demo](https://mohammedelsisi21.github.io/Template_One/)
 ## Project Description
